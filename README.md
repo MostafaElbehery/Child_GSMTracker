@@ -11,7 +11,7 @@ The tracker requires a  GSM/GPS Module e.g. SIM808.  I used SIM 808 Module and a
 ## Wiring 
 ![Wiring](https://i.ibb.co/fq2VsZR/Wiring.png)
 
-##Software
+## Software
 
 The Tracker.py script connects to the GSM/GPS Module, firstly to read the current position and secondly to send that position to your mobile phone.
 You should autostart the script so that it runs after power-up.
@@ -26,10 +26,10 @@ The script make those prosess:
 1. - Send message to your phone.
 
 
-##Final Product
+## Final Product
 ![FinalProduct](https://i.ibb.co/8Xd9NV9/IMG-20221229-184233.jpg)
 
-##Output
+## Output
 ![Output](https://i.ibb.co/dcwpWfV/Screenshot-2022-12-29-21-03-51-71-cf3cf72bd8e53b0db7ddb0a6f2208af9.jpg)
 
 ### P.S
