@@ -33,5 +33,5 @@ The script make those prosess:
 ![Output](https://i.ibb.co/dcwpWfV/Screenshot-2022-12-29-21-03-51-71-cf3cf72bd8e53b0db7ddb0a6f2208af9.jpg)
 
 ### P.S
-Remember to disable serial login on the Pi, but keep the serial port enable, in raspi-config.
-Remember to use a SIM card with enough credit for the number of texts you expect to be sent.
+- Remember to disable serial login on the Pi, but keep the serial port enable, in raspi-config.
+- Remember to use a SIM card with enough credit for the number of texts you expect to be sent.
