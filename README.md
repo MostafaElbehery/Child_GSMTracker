@@ -1,4 +1,4 @@
-# Child_GSMTracker
+# Child_Tracker
 
 This system consists of Raspberry Pi 3 model B and GSM/GPS Module (SIM 808). The tracker gets Child's position from the GSM/GPS Module, and sends it as text messages to your phone.
 
