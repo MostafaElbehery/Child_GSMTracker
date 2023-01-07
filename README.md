@@ -30,7 +30,7 @@ The script make those prosess:
 ![FinalProduct](https://i.ibb.co/8Xd9NV9/IMG-20221229-184233.jpg)
 
 ## Output
-![Output](https://i.ibb.co/dcwpWfV/Screenshot-2022-12-29-21-03-51-71-cf3cf72bd8e53b0db7ddb0a6f2208af9.jpg)
+![Output](https://i.ibb.co/zVJT4HZ/Screenshot-2023-01-07-16-26-31-75-cf3cf72bd8e53b0db7ddb0a6f2208af9.jpg)
 
 ### P.S
 - Remember to disable serial login on the Pi, but keep the serial port enable, in raspi-config.
